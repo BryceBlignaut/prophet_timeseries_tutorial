@@ -7,5 +7,5 @@ A simple guide to timeseries using the facebook prophet algorithm.
 
 Data: Liquorsales csv
 
-Tutorial Notebook: Intro-to-Forecasting.ipybn
+Tutorial Notebook: Intro-to-Forecasting.ipynb
 
